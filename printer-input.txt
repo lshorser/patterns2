@@ -1,0 +1,6 @@
+BillID:1
+Item: Salad   6.0$   Quanitity:2
+Item: Tuna Sandwich   7.0$   Quanitity:2
+Item: Fanta   3.0$   Quanitity:2
+Total Price: 32.0$
+

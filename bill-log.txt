@@ -1,0 +1,5 @@
+1
+Salad,6.0,2
+Tuna Sandwich,7.0,2
+Fanta,3.0,2
+32.0
